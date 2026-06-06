@@ -1,5 +1,6 @@
 <div align="center">
 
+# Saqlain Haider
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -19,7 +20,7 @@
 
 <div align="center">
 
-## 🎮 I think I know these
+## I think I know these
 
 <br/>
 
@@ -40,7 +41,7 @@
 
 <div align="center">
 
-## 📦 Things I've shipped (and survived)
+## Things I've shipped (and survived)
 
 </div>
 
@@ -48,7 +49,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🎨 [Colour-Puzzle-Game](https://github.com/saqlainhaider27/Colour-Puzzle-Game)
+### [Colour-Puzzle-Game](https://github.com/saqlainhaider27/Colour-Puzzle-Game)
 A puzzle game built in Unity & C#. Colors, logic, mild frustration.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -57,7 +58,7 @@ A puzzle game built in Unity & C#. Colors, logic, mild frustration.
 </td>
 <td align="center" width="50%">
 
-### 🐕 [Farm-Dog-Bingo](https://github.com/saqlainhaider27/Farm-Dog-Bingo)
+### [Farm-Dog-Bingo](https://github.com/saqlainhaider27/Farm-Dog-Bingo)
 Shaders, dogs, and a farm. Peak game design.
 
 ![ShaderLab](https://img.shields.io/badge/ShaderLab-00BFFF?style=flat-square&logo=unity&logoColor=white)
@@ -68,7 +69,7 @@ Shaders, dogs, and a farm. Peak game design.
 <tr>
 <td align="center" width="50%">
 
-### 🚗 [Park-It-Up](https://github.com/saqlainhaider27/Park-It-Up)
+### [Park-It-Up](https://github.com/saqlainhaider27/Park-It-Up)
 A parking game. Turns out parking is hard — in real life and in games.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -77,7 +78,7 @@ A parking game. Turns out parking is hard — in real life and in games.
 </td>
 <td align="center" width="50%">
 
-### ⚙️ [OpenGL Engine](https://github.com/SP24-BSE-109/OpenGLEngine)
+### [OpenGL Engine](https://github.com/SP24-BSE-109/OpenGLEngine)
 Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -90,7 +91,7 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 <div align="center">
 
-## 📊 The Numbers (don't lie, but they do judge)
+## The Numbers (don't lie, but they do judge)
 
 <br/>
 
