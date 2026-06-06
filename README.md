@@ -1,16 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Saqlain+Haider" alt="Name" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Saqlain%20Haider&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=70" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=false&width=600&lines=I+make+games.;Sometimes+they+even+work." alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=I+make+games.;Sometimes+they+even+work." alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-haider-486b19348)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqlainhaider27)
 
+<br/><br/>
 
-## I think I know these
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=🎮%20I%20think%20I%20know%20these&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=cs,java,rust,unity,git,github&perline=6&theme=dark" />
+
+<br/><br/>
 
 | Language / Tool | Vibe |
 |:---:|:---:|
@@ -19,8 +28,11 @@
 | **Rust** | Memory safe. Brain unsafe. |
 | **Unity** | Where the magic (and the bugs) happen. |
 
+<br/><br/>
 
-## Things I've shipped (and survived)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=📦%20Things%20I've%20shipped%20(and%20survived)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
+
+<br/>
 
 </div>
 
@@ -68,15 +80,20 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 <div align="center">
 
+<br/><br/>
 
-## The Numbers (don't lie, but they do judge)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=📊%20The%20Numbers%20(don't%20lie%2C%20but%20they%20do%20judge)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
+<br/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqlainhaider27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqlainhaider27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqlainhaider27&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
 
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saqlainhaider27/saqlainhaider27/output/github-snake-dark.svg" />
@@ -84,6 +101,7 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
   <img alt="github-snake" src="https://raw.githubusercontent.com/saqlainhaider27/saqlainhaider27/output/github-snake-dark.svg" />
 </picture>
 
+<br/><br/>
 
 *Profile views since I stopped being embarrassed about this README:*
 
