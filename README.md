@@ -11,8 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-haider-486b19348)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqlainhaider27)
 
-<br/><br/>
-
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=I%20think%20I%20know%20these&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
 <br/><br/>
