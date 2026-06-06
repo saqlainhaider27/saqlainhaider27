@@ -95,8 +95,8 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saqlainhaider27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainhaider27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqlainhaider27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqlainhaider27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 <br/><br/>
 
