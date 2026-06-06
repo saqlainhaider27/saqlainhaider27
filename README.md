@@ -123,6 +123,6 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 *Profile views since I stopped being embarrassed about this README:*
 
-![Visitor Count](https://profile-counter.glitch.me/saqlainhaider27/count.svg)
+![](https://komarev.com/ghpvc/?username=saqlainhaider27&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
