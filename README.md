@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=🎮%20I%20think%20I%20know%20these&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=I%20think%20I%20know%20these&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=📦%20Things%20I've%20shipped%20(and%20survived)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Things%20I've%20shipped%20(and%20survived)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
 <br/>
 
@@ -82,7 +82,7 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=📊%20The%20Numbers%20(don't%20lie%2C%20but%20they%20do%20judge)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=The%20Numbers%20(don't%20lie%2C%20but%20they%20do%20judge)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
 <br/>
 
