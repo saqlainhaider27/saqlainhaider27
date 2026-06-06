@@ -15,7 +15,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=I%20think%20I%20know%20these&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=cs,java,rust,unity,git,github&perline=6&theme=dark" />
 
@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Things%20I've%20shipped%20(and%20survived)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
-<br/>
+<br/><br/>
 
 </div>
 
@@ -84,7 +84,7 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=The%20Numbers%20(don't%20lie%2C%20but%20they%20do%20judge)&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 
-<br/>
+<br/><br/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqlainhaider27&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqlainhaider27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
