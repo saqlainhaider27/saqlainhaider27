@@ -1,28 +1,17 @@
 <div align="center">
 
-# Saqlain Haider
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Saqlain+Haider" alt="Name" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=I+make+games.;Sometimes+they+even+work." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=false&width=600&lines=I+make+games.;Sometimes+they+even+work." alt="Typing SVG" />
 
 <br/>
-<br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-haider-486b19348)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqlainhaider27)
 
-</div>
-
----
-
-<div align="center">
-
-## I think I know these
-
 <br/>
+
+## 🎮 I think I know these
 
 <img src="https://skillicons.dev/icons?i=cs,java,rust,unity,git,github&perline=6&theme=dark" />
 
@@ -35,13 +24,9 @@
 | **Rust** | Memory safe. Brain unsafe. |
 | **Unity** | Where the magic (and the bugs) happen. |
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-## Things I've shipped (and survived)
+## 📦 Things I've shipped (and survived)
 
 </div>
 
@@ -87,11 +72,11 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 </tr>
 </table>
 
----
-
 <div align="center">
 
-## The Numbers (don't lie, but they do judge)
+<br/>
+
+## 📊 The Numbers (don't lie, but they do judge)
 
 <br/>
 
@@ -104,18 +89,13 @@ Built a rendering engine from scratch. For fun. (It wasn't fun.)
 
 <br/><br/>
 
-<!-- Snake contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saqlainhaider27/saqlainhaider27/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saqlainhaider27/saqlainhaider27/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/saqlainhaider27/saqlainhaider27/output/github-snake-dark.svg" />
 </picture>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 *Profile views since I stopped being embarrassed about this README:*
 
